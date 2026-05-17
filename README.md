@@ -41,6 +41,6 @@ By combining transcript retrieval, embeddings, FAISS similarity search, and LLM 
 Clone the repo and run the setup script:
 
 ```bash
-git clone https://github.com/your-repo/video-rag-app.git
-cd video-rag-app
+git clone https://github.com/francoekka/video-transcript-summarizer.git
+cd video-transcript-summarizer
 bash setup.sh
