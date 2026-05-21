@@ -1,4 +1,4 @@
-# 🎥 YouTube Video Summarizer & Q&A (RAG App)
+# 🎥 TranscriptIQ – RAG‑powered Summarizer & Response System
 
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
 ![LangChain](https://img.shields.io/badge/langchain-0.2.6-orange.svg)
